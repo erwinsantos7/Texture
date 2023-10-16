@@ -7,8 +7,8 @@ hola, me gustan los videojuegos juego warzone, Fortnite,
 
 ![texture theme preview](https://i0.wp.com/www.michigandaily.com/wp-content/uploads/2023/06/Untitled_Artwork-116.png?resize=1200%2C800&ssl=1)
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Servidor de Discord [Discord][jekyll-docs] Perfil de steam [Steam][jekyll-gh]. Perfil de xbox [Xbox][jekyll-talk].
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[jekyll-docs]: https://discord.gg/TF77ftPw
+[jekyll-gh]:   https://s.team/p/cgpq-wjwc/jfgwfdwk
+[jekyll-talk]: https://www.xbox.com/play/share/friend/ynbU5MzujH
