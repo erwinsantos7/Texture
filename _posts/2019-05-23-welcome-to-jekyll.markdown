@@ -3,7 +3,7 @@ layout: post
 title:  "hola, Datos sobre mi"
 date:   2023-10-7 21:03:36 +0530
 ---
-hola, me gustan los videojuegos juego warzone, Fortnite, 
+hola, me gustan los videojuegos juego warzone, Fortnite, Elden ring, darks souls, lef 4 dead, fall guys, yugioh y mas
 
 ![texture theme preview](https://i0.wp.com/www.michigandaily.com/wp-content/uploads/2023/06/Untitled_Artwork-116.png?resize=1200%2C800&ssl=1)
 
