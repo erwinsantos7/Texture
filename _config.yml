@@ -16,7 +16,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Erwin Santos
-  tagline: Ingeniero en sistemas. Universitario
+  tagline: Sobrino de la tia itzel. Universitario
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
