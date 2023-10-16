@@ -2,7 +2,7 @@
 layout: post
 title:  "Post"
 description: Mi primer post
-date:   2019-05-23 21:03:36 +0530
+date:   2023-10-08 21:03:36 +0530
 categories: Javascript NodeJS
 ---
 Codigo de hola mundo hecho en JavaSript
